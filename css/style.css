@@ -39,6 +39,11 @@ body {
     text-decoration: none;
 }
 
+.cabecalho_menu_link.active {
+    font-weight: bold;
+    color: var(--cor-hover); /* Exemplo de cor */
+  }
+
 
 .apresentacao {
     padding: 5% 15%;
