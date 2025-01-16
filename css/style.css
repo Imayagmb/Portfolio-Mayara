@@ -5,6 +5,7 @@
     --cor-secundaria: #F6F6F6;
     --cor-terciaria: #14788E;
     --cor-hover: #272727;
+    --cor-active: #565656;
 
     --font-primaria: 'Krona One', sans-serif;
     --font-secundaria:'Montserrat', sans-serif;
@@ -40,10 +41,12 @@ body {
 }
 
 .cabecalho_menu_link.active {
-    font-weight: bold;
-    color: var(--cor-hover); /* Exemplo de cor */
+    color:#565656;
   }
 
+  .cabecalho_menu_link:hover {
+    color: var(--cor-secundaria);
+  }
 
 .apresentacao {
     padding: 5% 15%;
