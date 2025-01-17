@@ -48,7 +48,7 @@ O site foi projetado para apresentar meus projetos, habilidades e experiências 
 
 ## 📬 Contato  
 - **Email**: *imayagmb@gmail.com*  
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/maya-monteiro)  
+- **LinkedIn**: [maya-monteiro](https://www.linkedin.com/maya-monteiro)  
 
 ---
 
